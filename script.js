@@ -16,17 +16,6 @@ function draw(){
     //Background
     
     background(255,255,0);
-    /*
-    if(x < 33){
-        background(255,255,00);
-    }
-    else if(x >= 33 && x < 66){
-        background(00,00, 255);
-    }
-    else if(x >= 66){
-        background(255,00, 00);
-    }
-    */
     
     //Drawing
     fill(0,0,0);
