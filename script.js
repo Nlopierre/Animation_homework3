@@ -14,7 +14,6 @@ var x = 0;
 var moveRight = true;
 function draw(){
     //Background
-    
     background(255,255,0);
     
     //Drawing
